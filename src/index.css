@@ -64,6 +64,7 @@ main {
   background-color: #610b49;
   cursor: pointer;
   font-size: 16px;
+  color: white;
 }
 .btn button:hover {
   background-color: #7303c0;
